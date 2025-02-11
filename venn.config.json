@@ -1,0 +1,10 @@
+{
+    "networks": {
+        "holesky": {
+            "contracts": {
+                "MyContract1": "0x9018c43Bad70b80f2B86940d551611A228661E06",
+                "MyContract2": "0x9018c43Bad70b80f2B86940d551611A228661E06",
+            }
+        }
+    }
+}
